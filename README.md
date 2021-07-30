@@ -1,4 +1,4 @@
 
-1) start bash script mysql.sh
+## In this repository scripts for installing mysql server, create production server, create replication, export dump db
 
 
