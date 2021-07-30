@@ -23,7 +23,7 @@ case $VALUE in
 
 3)
     echo "Dumps"
-    terraform plan
+    
     echo "Success!"
     ;;
 
